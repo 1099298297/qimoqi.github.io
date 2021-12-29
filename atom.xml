@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Railgun&#39;s Blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-12-29T21:21:15.485Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Railgun</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="http://example.com/2021/12/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2021/12/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2021-12-29T20:48:45.341Z</published>
+    <updated>2021-12-29T21:21:15.485Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;p&gt;爷要 &lt;u&gt;睡觉了&lt;/u&gt;&lt;/p&gt;
+&lt;h3 id=&quot;火车叨位去&quot;&gt;&lt;a href=&quot;#火车叨位去&quot; class=&quot;headerlink&quot; title=&quot;火车叨位去&quot;&gt;&lt;/a&gt;火车叨位去&lt;/h3&gt;&lt;p&gt;听我讲 庄脚ㄟ路边 蝉躲在树枝</summary>
+    
+    
+    
+    
+    <category term="其他" scheme="http://example.com/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test_my_site</title>
+    <link href="http://example.com/2021/12/30/test-my-site-1/"/>
+    <id>http://example.com/2021/12/30/test-my-site-1/</id>
+    <published>2021-12-29T19:19:13.000Z</published>
+    <updated>2021-12-29T19:19:13.592Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test_my_site</title>
+    <link href="http://example.com/2021/12/30/test-my-site/"/>
+    <id>http://example.com/2021/12/30/test-my-site/</id>
+    <published>2021-12-29T18:57:05.000Z</published>
+    <updated>2021-12-29T18:57:05.789Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/12/30/hello-world/"/>
+    <id>http://example.com/2021/12/30/hello-world/</id>
+    <published>2021-12-29T18:56:09.905Z</published>
+    <updated>2021-12-29T18:56:09.905Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
